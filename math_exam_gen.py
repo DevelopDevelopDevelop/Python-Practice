@@ -8,7 +8,7 @@ key = []
 i = range(1,6)
 for n in i:
     
-# Generate 10 problems for Subtraction
+# Generate 5 problems for Subtraction
     x = random.randint(100,999)
     y = random.randint(100,999)
     z = random.randint(100,999)
@@ -122,7 +122,7 @@ key = []
 i = range(1,6)
 for n in i:
     
-# Generate 10 problems
+# Generate 5 problems
     x = random.randint(10,99)
     y = random.randint(10,99)
     z = random.randint(10,99)
@@ -199,7 +199,7 @@ key = []
 i = range(1,6)
 for n in i:
     
-# Generate 10 problems
+# Generate 5 problems
     d = random.randint(1,100)
     r = d/2
     ans = 2*3.14*r
@@ -222,7 +222,7 @@ key = []
 i = range(1,6)
 for n in i:
     
-# Generate 10 problems
+# Generate 5 problems
     d = random.randint(1,100)
     r = d/2
     ans = 3.14*r**2
